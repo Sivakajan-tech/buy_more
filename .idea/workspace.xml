@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a6bea70-d8fa-4f0e-a82e-2d9e551ee6aa" name="Changes" comment="Temporary PR">
+      <change afterPath="$PROJECT_DIR$/buy_more_fe_app/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Diana Single Seater.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Diana Single Seater.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Ellis Ottoman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Ellis Ottoman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Emerson Bedside Cupboard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Emerson Bedside Cupboard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Henly Ottoman.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Henly Ottoman.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Ironing Table.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Ironing Table.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Portland Corner Sofa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Portland Corner Sofa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Roswell Single Seater.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Roswell Single Seater.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Spring Mattress.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Spring Mattress.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/TR-004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/TR-004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/Wadrobe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/Wadrobe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/bed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/bed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/blue-tshirt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/blue-tshirt.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/chair1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/chair1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/coffeeetable.png" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/coffeeetable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cornersofa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cornersofa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cornerstand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cornerstand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cupboard.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cupboard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cupboard1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cupboard1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cushion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cushion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/cushions.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/cushions.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/dressingtable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/dressingtable.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/faveris-live-edge-table.png" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/faveris-live-edge-table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/head chair.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/head chair.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/mercury_bedroom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/mercury_bedroom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/mirrortable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/mirrortable.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/nightstand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/nightstand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/officetable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/officetable.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/recliner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/recliner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/reclinersofa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/reclinersofa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/shelf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/shelf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/shoerack.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/shoerack.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/sofa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/sofa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/stools.png" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/stools.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/studydesk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/studydesk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/tabchair.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/tabchair.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/track(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/track(1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/track.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/track.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/wadrobe1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/wadrobe1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/wallshelf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/wallshelf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/woodencoffeetable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/woodencoffeetable.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/Images/woodensofa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/Images/woodensofa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/cartItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/cartItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/frontPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/frontPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/orderedProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/orderedProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/placeOrderModel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/placeOrderModel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Customer/signup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Customer/signup.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Manager/registerWorker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Manager/registerWorker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Train/schedule.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/Train/schedule.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/QSR.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/QSR.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/QSR_OVN.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/QSR_OVN.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/addProduct.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/addProduct.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/adminDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/adminDashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/loadtotrain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/loadtotrain.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/neworders.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/neworders.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/pastOrders.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/pastOrders.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/registerManager.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/registerManager.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/registerWorker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/registerWorker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/reports.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/reports.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/scheduleTrain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/scheduleTrain.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/scheduleTrainTo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/scheduleTrainTo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/admin/scheduledOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/admin/scheduledOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/common/groupByAttribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/common/groupByAttribute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/common/paginate.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/common/paginate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/common/pagination.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/common/pagination.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/admin.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/admin.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/auth-header.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/auth-header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/auth.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/auth.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/customer.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/customer.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/qsr.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/qsr.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/service/store.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/service/store.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/addNewWorker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/addNewWorker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/driverOnTrip.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/driverOnTrip.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/finishedOrder.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/finishedOrder.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/ordersOnTrain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/ordersOnTrain.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/scheduleTrain.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/scheduleTrain.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/scheduledOrders.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/scheduledOrders.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/scheduletruck.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/scheduletruck.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/setRoutes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/setRoutes.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/store/storeDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/components/store/storeDashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/src/summa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/src/summa.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="hj15x17s" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SqMYHg2jTU335wAk29ZPsLysYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sivakajan/Desktop/buy_more/FrontEnd",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FrontEnd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FrontEnd" />
+      <recent name="$PROJECT_DIR$/buy_more_fe_app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6bea70-d8fa-4f0e-a82e-2d9e551ee6aa" name="Changes" comment="" />
+      <created>1689869704956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689869704956</updated>
+      <workItem from="1689869710159" duration="2124000" />
+      <workItem from="1689873238562" duration="634000" />
+      <workItem from="1689916043983" duration="644000" />
+      <workItem from="1690438312048" duration="4543000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding the existing frontend">
+      <created>1689869800368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689869800368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add issue templates">
+      <created>1689870210241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689870210241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Temprory PR">
+      <created>1689872288148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689872288148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding the existing frontend" />
+    <MESSAGE value="Add issue templates" />
+    <MESSAGE value="Temprory PR" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temprory PR" />
+  </component>
+</project>

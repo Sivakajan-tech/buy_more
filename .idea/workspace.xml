@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a6bea70-d8fa-4f0e-a82e-2d9e551ee6aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/common/crypto_id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/routes/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/routes/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/routes/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/routes/qsr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/routes/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/32702.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/QSR_pdf_Templete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/QSRs/result.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/extra.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buy_more_be_app/util/su.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buy_more_fe_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/buy_more_fe_app/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="sivakajan/issue-4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="hj15x17s" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SqMYHg2jTU335wAk29ZPsLysYK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sivakajan/Desktop/buy_more/buy_more_be_app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/buy_more_be_app" />
+      <recent name="$PROJECT_DIR$/FrontEnd" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FrontEnd" />
+      <recent name="$PROJECT_DIR$/buy_more_fe_app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a6bea70-d8fa-4f0e-a82e-2d9e551ee6aa" name="Changes" comment="" />
+      <created>1689869704956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689869704956</updated>
+      <workItem from="1689869710159" duration="2124000" />
+      <workItem from="1689873238562" duration="634000" />
+      <workItem from="1689916043983" duration="644000" />
+      <workItem from="1690438312048" duration="4543000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding the existing frontend">
+      <created>1689869800368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689869800368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add issue templates">
+      <created>1689870210241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689870210241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Temprory PR">
+      <created>1689872288148</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689872288148</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/sivakajan/issue-4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding the existing frontend" />
+    <MESSAGE value="Add issue templates" />
+    <MESSAGE value="Temprory PR" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temprory PR" />
+  </component>
+</project>
